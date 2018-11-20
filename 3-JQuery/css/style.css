@@ -1,0 +1,43 @@
+
+body
+{
+	background-color: lightblue;
+}
+
+button
+{
+	background-color: rgb();
+	font-family: "Times New Roman";
+	border-radius: 10px;
+	font-size: 20px;
+	border-color: white;
+}
+
+h1
+{
+	color: red;
+	font-size: 30px;
+	border: 3px solid white;
+}
+
+td
+{
+	border-radius: 5px;
+	font-family: "Verdana";
+}
+
+table
+{
+	border:solid;
+}
+
+tr
+{
+	border: solid;
+}
+
+td
+{
+	border-style: dotted;
+}
+
